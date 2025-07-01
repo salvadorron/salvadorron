@@ -38,9 +38,3 @@
 ## 👨‍💻 About Me
 
 I am a passionate software engineer with a robust foundation in web technologies, backend development, and mobile solutions. I excel at building clean, efficient, and scalable applications. My commitment to continuous learning and professional growth drives me to stay updated with the latest industry trends and best practices.
-
----
-
-<!--
-For more information, please explore my repositories below.
--->
