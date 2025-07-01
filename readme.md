@@ -14,8 +14,9 @@
 - **Backend:** Express.js, Koa.js
 - **Mobile:** Flutter, React Native
 
-### Databases
+### Databases & ORMs:
 - **SQL:** PostgreSQL, MySQL, SQLite
+- **ORM:** Sequelize, Prisma
 
 ### DevOps & CI/CD
 - **Containerization:** Docker
