@@ -1,84 +1,42 @@
-**Software Engineer**
+# Software Engineer
 
 ---
 
-### Backend Languages:
+## 🚀 Technical Skills
 
-        Python
+### Languages
+- **Backend:** Python, Java, Node.js
+- **Frontend:** JavaScript, HTML5, CSS3
+- **Mobile:** Kotlin, Java (Android), Dart, React Native
 
-        Java
+### Frameworks & Libraries
+- **Frontend:** React.js
+- **Backend:** Express.js, Koa.js
+- **Mobile:** Flutter, React Native
 
-        Node.js
+### Databases
+- **SQL:** PostgreSQL, MySQL, SQLite
 
-### Frontend Languages:
-
-        JavaScript
-
-        HTML5
-
-        CSS3
-
-### Mobile Development Languages:
-
-        Kotlin / Java (for Android)
-
-        Dart
-
-        React Native
-
-### Frameworks & Libraries:
-
-    Frontend Frameworks: React.js
-
-    Backend Frameworks: Express.js, Koa.js
-
-    Mobile Frameworks: React Native, Flutter
-
-### Databases:
-
-    Relational Databases (SQL):
-
-        PostgreSQL
-
-        MySQL
-
-        SQLite
-
-
-
-    NoSQL Databases:
-
-        MongoDB
-
-
-### DevOps & CI/CD:
-
-    Containerization: Docker
-
-    CI/CD Tools: GitHub Actions
-
-### Software Development Methodologies & Practices:
-
-    Agile (Scrum, Kanban)
-
-    Domain-Driven Design (DDD)
-
-    Object-Oriented Programming (OOP) principles (Encapsulation, Inheritance, Polymorphism, Abstraction)
-
-    Functional Programming
-
-    Design Patterns (Singleton, Factory, Observer)
-
-    Clean Code principles
-
-### Technical Skills
-
-- **Languages:** JavaScript, TypeScript, Python, Java, HTML, CSS
-- **Backend:** Node.js
+### DevOps & CI/CD
+- **Containerization:** Docker
+- **CI/CD:** GitHub Actions
 
 ---
 
-I am a dedicated software engineer with a strong foundation in modern web technologies and backend development. My focus is on delivering clean, efficient, and scalable solutions. I am committed to continuous learning and professional growth.
+## 🛠️ Methodologies & Best Practices
+
+- **Agile:** Scrum, Kanban
+- **Domain-Driven Design (DDD)**
+- **Object-Oriented Programming (OOP):** Encapsulation, Inheritance, Polymorphism, Abstraction
+- **Functional Programming**
+- **Design Patterns:** Singleton, Factory, Observer
+- **Clean Code Principles**
+
+---
+
+## 👨‍💻 About Me
+
+I am a passionate software engineer with a robust foundation in web technologies, backend development, and mobile solutions. I excel at building clean, efficient, and scalable applications. My commitment to continuous learning and professional growth drives me to stay updated with the latest industry trends and best practices.
 
 ---
 
