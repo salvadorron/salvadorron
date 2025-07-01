@@ -26,7 +26,7 @@
 
 ## 🛠️ Methodologies & Best Practices
 
-- **Agile:** Scrum, Kanban
+- **Agile:** Scrum
 - **Domain-Driven Design (DDD)**
 - **Object-Oriented Programming (OOP):** Encapsulation, Inheritance, Polymorphism, Abstraction
 - **Functional Programming**
